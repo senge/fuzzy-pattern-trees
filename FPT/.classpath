@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="weka/classifiers/trees/pt/utils/GradientUtils.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lablib-checkboxtree-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/moa-2014.11.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math3-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/weka-3.7.11.jar" sourcepath="lib/weka-3.7.11-src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

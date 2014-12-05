@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="FPT/dist/fpt.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/FPT/dist/export.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.optim"/>
+        <file path="/FPT/.project"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.measures"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.misc"/>
+        <javaElement handleIdentifier="=FPT/src&lt;"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.nodes"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.datagenerators.classifiers.classification"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.utils"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.associations.pt"/>
+        <javaElement handleIdentifier="=FPT/src&lt;exp.preproc"/>
+        <javaElement handleIdentifier="=FPT/src&lt;exp"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.aggregations"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt"/>
+        <file path="/FPT/.classpath"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.utilsEv"/>
+        <javaElement handleIdentifier="=FPT/src&lt;weka.classifiers.trees.pt.optim.ea"/>
+    </selectedElements>
+</jardesc>
