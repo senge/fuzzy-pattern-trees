@@ -6,6 +6,10 @@ Fuzzy pattern tree induction was recently introduced as a novel machine learning
 
 # Publications
 
+Maschine Learning Methods for Fuzzy Pattern Tree Induction
+Robin Senge, PhD-Thesis, University of Marburg, 2014
+http://archiv.ub.uni-marburg.de/diss/z2014/0391/pdf/drs.pdf
+
 Top-down induction of fuzzy pattern trees
 Robin Senge, Eyke Hüllermeier - IEEE Transactions on Fuzzy Systems, 2011
 
