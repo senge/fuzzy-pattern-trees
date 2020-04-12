@@ -12,10 +12,13 @@ http://archiv.ub.uni-marburg.de/diss/z2014/0391/pdf/drs.pdf
 
 Top-down induction of fuzzy pattern trees
 Robin Senge, Eyke Hüllermeier - IEEE Transactions on Fuzzy Systems, 2011
+https://www.researchgate.net/profile/Robin_Senge/publication/224196209_Top-Down_Induction_of_Fuzzy_Pattern_Trees/links/5839dcde08ae3d91723f6418/Top-Down-Induction-of-Fuzzy-Pattern-Trees.pdf
 
 Evolving fuzzy pattern trees for binary classification on data streams
 Ammar Shaker, Robin Senge, Eyke Hüllermeier - Information Sciences, 2013
+https://cs.uni-paderborn.de/fileadmin/informatik/fg/is/Publications/EFPT.pdf
 
 Pattern trees for regression and fuzzy systems modeling
 Robin Senge, Eyke Hüllermeier - 2010 IEEE International Cnoference on Fuzzy Systems, 2010
+https://www.researchgate.net/profile/Robin_Senge/publication/224177003_Pattern_trees_for_regression_and_fuzzy_systems_modeling/links/5469d5390cf2f5eb180520e0/Pattern-trees-for-regression-and-fuzzy-systems-modeling.pdf
 
