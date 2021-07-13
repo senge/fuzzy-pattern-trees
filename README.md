@@ -3,6 +3,10 @@ fuzzy-pattern-trees
 
 Fuzzy pattern tree induction was recently introduced as a novel machine learning method for classification. Roughly speaking, a pattern tree is a hierarchical, tree-like structure, whose inner nodes are marked with generalized (fuzzy) logical operators and whose leaf nodes are associated with fuzzy predicates on input attributes. A pattern tree classifier is composed of an ensemble of such pattern trees, one for each class label. This type of classifier is interesting for several reasons. For example, since a single pattern tree can be considered as a kind of logical description of a class, it is quite appealing from an interpretation point of view. Moreover, in terms of classification accuracy, the method has shown promising performance in first experimental studies.
 
+# Licence
+
+Code is available with no warranty under the [GPL v3|https://www.gnu.org/licenses/gpl-3.0.html].
+
 
 # Publications
 
