@@ -5,7 +5,7 @@ Fuzzy pattern tree induction was recently introduced as a novel machine learning
 
 # Licence
 
-Code is available with no warranty under the [GPL v3|https://www.gnu.org/licenses/gpl-3.0.html].
+Code is available with no warranty under the GPL v3 (https://www.gnu.org/licenses/gpl-3.0.html).
 
 
 # Publications
